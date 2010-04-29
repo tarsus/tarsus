@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/scratch/scratch.iml" filepath="$PROJECT_DIR$/scratch/scratch.iml" />
       <module fileurl="file://$PROJECT_DIR$/tarsus.iml" filepath="$PROJECT_DIR$/tarsus.iml" />
     </modules>
   </component>

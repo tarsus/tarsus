@@ -3,9 +3,12 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>tarsus</groupId>
   <artifactId>tarsus</artifactId>
-  <packaging>war</packaging>
+  <packaging>pom</packaging>
   <version>1.0</version>
-  <name>tarsus Maven Webapp</name>
+    <modules>
+        <module>scratch</module>
+    </modules>
+    <name>tarsus Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
