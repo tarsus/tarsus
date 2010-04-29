@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tarsus:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tarsus.war">
+      <element id="artifact" artifact-name="tarsus:war exploded" />
+    </root>
+  </artifact>
+</component>
